@@ -2,7 +2,7 @@
 
 ### 👋 Olá, Sou o Yuri Gabriel
 
-estou iniciando na área da programação, atuamdo principalmente no front-end mas sei alguns truques no back-end
+estou iniciando na área da programação, atuando principalmente no front-end mas sei alguns truques no back-end
 
 ## Principais Linguagens e Ferramentas:
 <li><strong>dart</strong></li>
