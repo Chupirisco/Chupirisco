@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Yuri Gabriel</h1>
-<h3 align="center">Um desenvolvedor júnior tanto front-end quanto back-end, atuando principalmente na área Mobile</h3>
+<h3 align="center">Um dev full-stack, atuando principalmente na área Mobile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chupirisco&label=Profile%20views&color=0e75b6&style=flat" alt="chupirisco" /> </p>
 
