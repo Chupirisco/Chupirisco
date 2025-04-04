@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Yuri Gabriel</h1>
-<h3 align="center">Um dev que da área Mobile</h3>
+<h3 align="center">Um dev da área Mobile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chupirisco&label=Profile%20views&color=0e75b6&style=flat" alt="chupirisco" /> </p>
 
