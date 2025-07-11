@@ -77,6 +77,13 @@ o ensino médio integrado ao ensino médio no [Instituto  Federal de Rondônia](
     style="padding-right:10;"
 />
 <img 
+    title="javaScript"
+    alt="javaScript"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    height="50"
+    style="padding-right:10;"
+/>
+<img 
     title="arch-linux"
     alt="arch-linux"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" 
