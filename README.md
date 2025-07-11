@@ -14,7 +14,7 @@
 **`Desenvolvedor Mobile`**
 
 Olá me chamo Yuri, tenho 18 anos e moro em Rondônia. Estou cursando 
-o ensino médio integrado ao ensino médio no [Instituto  Federal de Rondônia](https://portal.ifro.edu.br/ji-parana), curto programação e manutenção de computadores. Meu principal projeto atualmente é o [Zuarte-Player](https://github.com/Chupirisco/zuarte-player).Para mais informações acesse [Meu Portifólio](https://chupirisco.github.io/YuriGabriel/).
+o ensino médio integrado ao ensino médio no [Instituto  Federal de Rondônia](https://portal.ifro.edu.br/ji-parana), curto programação e manutenção de computadores. Meu principal projeto atualmente é o [Zuarte-Player](https://github.com/Chupirisco/zuarte-player). Para mais informações acesse [Meu Portifólio](https://chupirisco.github.io/YuriGabriel/).
 
 ## Contatos
 <a href="mailto:yurigabrielsouza10@gmail.com">
