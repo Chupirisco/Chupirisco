@@ -39,7 +39,7 @@ o ensino médio integrado ao ensino médio no [Instituto  Federal de Rondônia](
     />
 </a>
 
-## Técnologias
+## Tecnologias
 
 <img 
     title="dart"
