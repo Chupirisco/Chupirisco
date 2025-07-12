@@ -31,7 +31,7 @@ o ensino médio integrado ao ensino médio no [Instituto  Federal de Rondônia](
         src="https://custom-icon-badges.demolab.com/badge/-instagram-red?style=for-the-badge&logo=mention&logoColor=white"
     />
 </a>
-<a href="www.linkedin.com/in/yuri-gabriel-b40205315">
+<a href="https://www.linkedin.com/in/yuri-gabriel-b40205315">
     <img
         alt="linkdin"
         title="Email"
