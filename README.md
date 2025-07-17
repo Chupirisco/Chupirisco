@@ -116,7 +116,7 @@ o ensino médio integrado ao ensino médio no [Instituto  Federal de Rondônia](
 
 <img     
     alt="estatisticas"
-    src="https://github-readme-stats.vercel.app/api?username=Chupirisco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Chupirisco&show_icons=true&theme=tokyonight&include_all_commits=false&locale=pt-br" 
     height="200"
     style="padding-right:5;"
 />
