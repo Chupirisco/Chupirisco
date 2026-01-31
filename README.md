@@ -5,11 +5,7 @@
     src="https://custom-icon-badges.demolab.com/github/stars/Chupirisco?logo=star&style=flat&color=yellow"
 />
 ![views](https://komarev.com/ghpvc/?username=Chupirisco&color=red&style=flat-square&label=Profile+views)
-<img
-    alt="views"
-    title="views"
-    src="https://custom-icon-badges.demolab.com/github/last-commit/Chupirisco/zuarte-player?logo=history&logoColor=white&color=purple"
-/>
+
 
 **`Desenvolvedor Mobile`**
 
