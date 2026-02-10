@@ -21,14 +21,14 @@ Olá me chamo Yuri, tenho 18 anos e moro em Rondônia. Sou formado em técnico e
 <a href="https://www.instagram.com/yuri_g_f_s?igsh=eWtqYjAzdTgyZ3hh">
     <img
         alt="instagram"
-        title="Email"
+        title="instagram"
         src="https://custom-icon-badges.demolab.com/badge/-instagram-red?style=for-the-badge&logo=mention&logoColor=white"
     />
 </a>
 <a href="https://www.linkedin.com/in/yuri-gabriel-b40205315">
     <img
         alt="linkdin"
-        title="Email"
+        title="linkdin"
         src="https://custom-icon-badges.demolab.com/badge/-linkdin-blue?style=for-the-badge&logo=linkdin&logoColor=white"
     />
 </a>
