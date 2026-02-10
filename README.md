@@ -9,9 +9,7 @@
 
 **`Desenvolvedor Mobile`**
 
-Olá me chamo Yuri, tenho 18 anos e moro em Rondônia. Estou cursando 
-o ensino médio integrado ao ensino médio no [Instituto  Federal de Rondônia](https://portal.ifro.edu.br/ji-parana), curto programação e manutenção de computadores. Meu principal projeto atualmente é o [Zuarte-Player](https://github.com/Chupirisco/zuarte-player).
-
+Olá me chamo Yuri, tenho 18 anos e moro em Rondônia. Sou formado em técnico em informática pelo IFRO e estou cursando análise e desenvolvimeto de sistema também pelo IFRO, curto programação e manutenção de computadores.
 ## Contatos
 <a href="mailto:yurigabrielsouza10@gmail.com">
     <img      
